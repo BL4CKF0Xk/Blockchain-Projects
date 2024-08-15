@@ -1,0 +1,14 @@
+
+[dev]
+Django>=1.11
+nose2
+tox
+check-manifest
+coverage
+flake8
+wheel
+zest.releaser[recommended]
+
+[doc]
+Sphinx
+sphinx-rtd-theme

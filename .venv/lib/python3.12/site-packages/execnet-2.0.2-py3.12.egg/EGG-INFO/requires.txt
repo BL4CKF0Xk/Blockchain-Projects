@@ -1,0 +1,6 @@
+
+[testing]
+hatch
+pre-commit
+pytest
+tox
